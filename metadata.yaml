@@ -1,0 +1,27 @@
+_repo: Arbor-Day-LeavesReadings-Recitations-Music-and-General-Information_17645
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Egleston, Nathaniel Hillyer
+    birthdate: 1822
+    deathdate: 1912
+    gutenberg_agent_id: '7516'
+    url: http://www.gutenberg.org/2009/agents/7516
+description: ''
+gutenberg_issued: '2006-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arbor Day'
+- !lcc 'SD'
+title: "Arbor Day Leaves\r\nA Complete Programme For Arbor Day Observance, Including\
+  \ Readings, Recitations, Music, and General Information"
+url: http://www.gutenberg.org/ebooks/17645
